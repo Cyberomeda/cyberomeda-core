@@ -1,0 +1,2 @@
+# cyberomeda-core
+Decentralized Network
